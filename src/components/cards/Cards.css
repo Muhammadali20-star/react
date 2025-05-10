@@ -38,5 +38,5 @@
 }
 .flex{
     display: flex;
-    display: none;
+    justify-content: space-between
 }
