@@ -52,10 +52,8 @@ const Cards = () =>{
                 <span>9/25/2015</span>
                 </div>
             </div>
-        </div>
 
-        <div className="container cards">
-        <div className="card">
+            <div className="card">
             <img src={photo6} alt="" />
             <h2>Through the Mist</h2>
             <p>Travel makes you see what a tiny place you occupy in the world.</p>
@@ -72,7 +70,7 @@ const Cards = () =>{
             <img src={photo7} alt="" />
             <h2>Awaken Early</h2>
             <p>Not all those who wander are lost.</p>
-            <div className="flex">
+            <div className="flex2">
             <div className="text">
                 <img src={photo3} alt="" />
                 <span>Mat Vogels</span>
